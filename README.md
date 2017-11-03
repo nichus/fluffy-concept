@@ -1,4 +1,12 @@
-# fluffy-concept
-An introduction to SSL certificate generation, and how to use those certificated within Splunk
+All Things SSL
+==============
+
+An introduction to SSL certificates, their generation, and how to use those certificates within Splunk
+
+Outline
+=========
+
+
+[linkie](why.md#tangent-1)
 
 Produced under the [Creative Commons Attribution Share Alike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
